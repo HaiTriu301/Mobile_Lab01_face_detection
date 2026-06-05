@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Study/HK6/Mobile/opencv-4.5.2-android-sdk/OpenCV-android-sdk/sdk/.cxx/Debug/46b2mj1n/x86",
+  "command": "D:\\AppCode\\AndroidStudio\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android21 --sysroot=D:/AppCode/AndroidStudio/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\opencv_jni_shared.dir\\dummy.cpp.o -c D:\\Study\\HK6\\Mobile\\opencv-4.5.2-android-sdk\\OpenCV-android-sdk\\sdk\\libcxx_helper\\dummy.cpp",
+  "file": "D:\\Study\\HK6\\Mobile\\opencv-4.5.2-android-sdk\\OpenCV-android-sdk\\sdk\\libcxx_helper\\dummy.cpp"
+}
+]
